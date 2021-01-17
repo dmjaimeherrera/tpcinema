@@ -1,0 +1,111 @@
+html, #root {
+  background-color: #eeeeee;
+}
+
+.Main {
+  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.Headline {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.Thumb {
+  padding-bottom: 20px;
+}
+
+.Menu button {
+  margin-top: 1px;
+  margin-right: 5px;
+  margin-bottom: 1px;
+}
+
+.SignupBtn {
+  margin-bottom: 10px;
+}
+
+.App {
+  text-align: center;
+}
+
+.Pelicula {
+  padding-bottom: 20px;
+}
+
+.Admin {
+  padding-top: 20px;
+}
+
+.Thumbnail {
+  width: 100px;
+  height: 50px;
+  background-size: cover;
+  background-position: center;
+  margin: auto;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.Uploader {
+  cursor: pointer;
+  border: 1px dashed #cccccc;
+  padding: 5px;
+}
+
+.Uploader:hover {
+  border-color: #999;
+  background-color: #eeeeee;
+}
+
+.Uploader small {
+  color: #999999;
+  display: block;
+  text-align: center;
+  background-color: #eeeeee;
+  padding: 2px;
+}
+
+.Uploader:hover small {
+  color: #333333;
+  background-color: #cccccc;
+}
+
+/*
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
